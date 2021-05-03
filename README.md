@@ -1,3 +1,3 @@
 # Aulas-Portugol
 
-Inicio do estudo de lógica de programação em Portugol
+Aqui estão os exercicios de lógica desenvolvidos em Portugol.
